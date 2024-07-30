@@ -32,3 +32,4 @@ create_excel_file(file_name)
 add_data_to_excel(file_name, "123456", "2024-07-20", 250.75)
 add_data_to_excel(file_name, "789012", "2024-07-21", 145.00)
 add_data_to_excel(file_name, "345678", "2024-07-22", 320.40)
+
